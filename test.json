@@ -1,0 +1,2357 @@
+{
+  "data": {
+    "reference_unique_id": "crif_credit_9d3708cc838d",
+    "email": "legal@easycredits.com",
+    "created_at": "2025-12-19T10:37:43.551751+00:00",
+    "first_name": "BOYA",
+    "last_name": "SIVASANKAR",
+    "pan_number": "GCAPS2958R",
+    "mobile_number": "9986429482",
+    "dob": "01-01-1990",
+    "gender": "M",
+    "address": null,
+    "city": null,
+    "state": null,
+    "pincode": null,
+    "remark": null,
+    "credit_score": null,
+    "credit_report_data": {
+      "pan": "GCAPS2958R",
+      "name": "BOYASIVASANKAR",
+      "mobile": "9986429482",
+      "credit_report": {
+        "HEADER": {
+          "DATE-OF-REQUEST": "19-12-2025",
+          "DATE-OF-ISSUE": "19-12-2025",
+          "REPORT-ID": "CCR251219CR677704697",
+          "BATCH-ID": "4207800702251219",
+          "inquiryId_": "13168506979",
+          "STATUS": "SUCCESS"
+        },
+        "REQUEST": {
+          "NAME": "BOYA SIVASANKAR",
+          "DOB": "30-07-2000",
+          "PAN": "GCAPS2958R",
+          "EMAIL-1": "sudha@gmail.com",
+          "ADDRESS-1": "govindpuri undefined delhi 110019 delhi",
+          "ADDRESS-2": "",
+          "ADDRESS-3": "",
+          "PHONE-1": "9986429482"
+        },
+        "PERSONAL-INFO-VARIATION": {
+          "NAME-VARIATIONS": {
+            "VARIATION": [
+              {
+                "VALUE": "B SIVASANKAR",
+                "REPORTED-DATE": "30-11-2025"
+              },
+              {
+                "VALUE": "BOYA SIVASANKAR",
+                "REPORTED-DATE": "15-12-2025"
+              },
+              {
+                "VALUE": "B SIVA SHANKAR",
+                "REPORTED-DATE": "30-11-2025"
+              }
+            ]
+          },
+          "ADDRESS-VARIATIONS": {
+            "VARIATION": [
+              {
+                "VALUE": "1 ST FLOOR NO 64 MUNIRAMAREDDY BUILDING HONNENAHALLI NEAR WATER TANK BENGALURU Y ELAHANKA YELAHANKA KARNATAKA INDIA 56006 4 560064 KA",
+                "REPORTED-DATE": "30-11-2025"
+              },
+              {
+                "VALUE": "NO 64 FIRST FLOOR MUNIRAMAREDD BUILDING HONNENAHALLI SINGANAYAKANAHALLI POST YELAHA BANGALORE 560064 KA",
+                "REPORTED-DATE": "30-11-2025"
+              },
+              {
+                "VALUE": "64 1ST FLOOR HONNENAHALLI S N HALLI POST YELAHANKA BANGALORE 560064 KA",
+                "REPORTED-DATE": "15-12-2025"
+              },
+              {
+                "VALUE": "HERO FIM CORP LTD NO 90 BYATRARANIPURA NEW AIR PORT ROAD BANGALORE 560092 KA",
+                "REPORTED-DATE": "30-11-2025"
+              },
+              {
+                "VALUE": "SAI APARTMENT AARADHANA SOCIETY BEHIND PETROL PUMP GODHANI,   RAILWAY NAGPUR,  PETROL PUMP,   NAGPUR,   MAHARASHTRA 500018 TS",
+                "REPORTED-DATE": "15-04-2025"
+              },
+              {
+                "VALUE": "PLOT NO 5 MAHALAXMI NEELAYAM NEELAYAM RO AD NO 3 3RTH FLOOR PRAGATI NAGAR HYDERAB AD  RANGA REDDY 500018 TS",
+                "REPORTED-DATE": "30-11-2025"
+              },
+              {
+                "VALUE": "KELLY SERVICES INDIA PVT LTD HERO FIN BI MAL MOTORS NO 212 BALLARY MAIN ROAD SADA SHIVA NAGAR  OPP PALACE GROUND GATE NO 8 560080 KA",
+                "REPORTED-DATE": "08-10-2023"
+              },
+              {
+                "VALUE": "NO 64 1ST FLOOR MUNIRAMAREDDY BUILDING HONNENAHALLI VILLAGE SINGANAYAKANAHALLI POST YALAHANKA 7098 KARNATAKA 560064 KA",
+                "REPORTED-DATE": "31-12-2022"
+              },
+              {
+                "VALUE": "NO 124161 PLOT NO 36 2 ND FLOOR FIRST ROOM SRI BALAJI NILAYAM PRAGATHI NAGAR MOOSAPET 500018 TS",
+                "REPORTED-DATE": "30-11-2025"
+              },
+              {
+                "VALUE": "1STFLOORNO64KARNATAKAHONNENAHALLIYELAHA NKABENGALURUYELAHANKA BANGALORE 560064 KA",
+                "REPORTED-DATE": "30-11-2025"
+              },
+              {
+                "VALUE": "NO 124166 1 ST FLOOR ROAD NO 2 PRAGATHI NAGAR MOOSAPET 500018 TS",
+                "REPORTED-DATE": "30-09-2025"
+              },
+              {
+                "VALUE": "FEDBANK FINANCIAL SERVICES LIMITED NO 701 7TH FLOOR BLOCK 3 WHITE HOUSE KUNDANBAGH BEGUMPET HYDERABAD HYDERABAD TEL 500016 500016 TS",
+                "REPORTED-DATE": "30-11-2025"
+              },
+              {
+                "VALUE": "1 ST FLOOR NO 64 MUNIRAMAREDDY BUILDING HONNENAHAL NEAR WATER TANK YELAHANKA BENGALURU YELAHANKA, KARNATAKA, 560064 560064 KA",
+                "REPORTED-DATE": "31-10-2025"
+              },
+              {
+                "VALUE": "HOUSE NO 64 1ST FLOOR MUNIREDDY BUILDING HONANAHALLI VILLAGE SINGANAYAKANAHALLI POST YELAHANKA BANGALORE 560064 560064 KA",
+                "REPORTED-DATE": "30-11-2025"
+              },
+              {
+                "VALUE": "6/00, B C COLONY, , AMIDYALA, ,   . 515822 AP",
+                "REPORTED-DATE": "15-02-2025"
+              },
+              {
+                "VALUE": "NO 90 BYATARAYANAPURA SINAL SAHAKAR NAGAR POST BANGALORE 13 KARNATAKA 560092 KA",
+                "REPORTED-DATE": "31-12-2022"
+              },
+              {
+                "VALUE": "1 ST FLOOR NO 64 MUNIRAMAREDDY BUILDING 560064 KA",
+                "REPORTED-DATE": "28-02-2025"
+              },
+              {
+                "VALUE": "6/100 BC COLONY AMIDYALA ANANTAPUR 515822 AP",
+                "REPORTED-DATE": "30-11-2025"
+              },
+              {
+                "VALUE": "S/O BOYA EESWARAPPA LATE,  6/00 B C COLON ANANTAPUR 515822 AP",
+                "REPORTED-DATE": "30-11-2025"
+              },
+              {
+                "VALUE": "NO 64 1ST FLOOR MUNIRAMA REDDY BUILDING HONNENAHALLI SN HALLI POST YELAHAKA BANGALORE 560064 KA",
+                "REPORTED-DATE": "30-11-2025"
+              },
+              {
+                "VALUE": "1 ST FLOOR,  NO 64,  MUNIRAMAREDDY BUILDING,  HONNENAHALLI,  NEAR WATER TANK,  VTC: YELAHANKA,  PO: YELAHANKA,  DISTRICT: BENGALURU,  STATE: KAMATAKA,  PIN CODE: 560064,  560064 MH",
+                "REPORTED-DATE": "31-07-2024"
+              },
+              {
+                "VALUE": "NO 64 FIRST FLOOR MUNIRAMAREDD BUILDING HONNENAHALLI SINGANAYAKANAHALLI POST YELAHA , BENGALURU , KARNATAKA , 560064 560064 KA",
+                "REPORTED-DATE": "30-11-2025"
+              },
+              {
+                "VALUE": "1 ST FLOOR,  NO 64,  MUNIRAMAREDDY BUILDING,  HONNENAHALLI,  NEAR WATER TANK,  YELAHANKA,  YELAHANKA,  BENGALURU 560064 KA",
+                "REPORTED-DATE": "21-02-2025"
+              },
+              {
+                "VALUE": "6 00 B C COLONY URAVAKONDA AMIDYALA ANANTAPUR 26 ANDHRA PRADESH 515822 AP",
+                "REPORTED-DATE": "31-12-2022"
+              },
+              {
+                "VALUE": "6 00, B C COLONY, AMIDYALA   URAVAKONDA ANANT 515822 AP",
+                "REPORTED-DATE": "30-11-2025"
+              },
+              {
+                "VALUE": "1 ST FLOOR NO 64 MUNIRAMAREDDY BUILDING 1 ST FLOOR NO 64 MUNIRAMAREDDY BUILDING YELAHANKAHONNENAHALLI BENGALURUNEAR WATER TANK 560064 KA",
+                "REPORTED-DATE": "30-11-2025"
+              },
+              {
+                "VALUE": "KELLY SERVICES INDIA PVT LTD C/O HERO FIN CORP NO 90 BYATRAYANAPURA MAIN ROAD BANGALORE 560092 AP",
+                "REPORTED-DATE": "30-11-2025"
+              },
+              {
+                "VALUE": "604 6TH FLOOR ASHOKA BHOOPAL CHAMBER SP ROAD SECUNDERABAD HYDERABAD  HYDERABAD 500003 TS",
+                "REPORTED-DATE": "30-11-2025"
+              },
+              {
+                "VALUE": "1 ST FLOOR,  NO 64,  MUNIRAMAREDDY BUILDIN 560064 KA",
+                "REPORTED-DATE": "31-12-2024"
+              },
+              {
+                "VALUE": "HEROFINCORP LIMITED 90 BADA RAYAPURA NEW AIRPORT ROAD BANGALORE BANGALORE 560092 KA",
+                "REPORTED-DATE": "30-11-2025"
+              },
+              {
+                "VALUE": "124166 PRAGATHI NAGAR MOOSAPET TELANGANA HYDERABAD 500080 TS",
+                "REPORTED-DATE": "31-03-2025"
+              },
+              {
+                "VALUE": "NO64 1ST YELAHANKA FLOOR MUNIRAMAREDDY BUILDING SONNAHALLI BANGALORE 560064 KA",
+                "REPORTED-DATE": "30-11-2025"
+              },
+              {
+                "VALUE": "1 ST FLOOR NO 64 MUNIRAMAREDDY BUILDING HONNENAHALLI YELAHANKA BENGALURU EAST KARNATAKA 560064 560064 KA",
+                "REPORTED-DATE": "30-11-2025"
+              },
+              {
+                "VALUE": "1ST FLOOR HOUSE NO 16 MUNIRAMA REDDY BLD G UNNENA HALLI VILLAGE SINGANAYAKANAHALL I POST YELANKA  NR WATER TANK 560064 KA",
+                "REPORTED-DATE": "30-11-2025"
+              },
+              {
+                "VALUE": "S O BOYA EESWARAPPA LATE NO 6 00 C COLON Y AMIDYALA URAVAKONDA 515822 AP",
+                "REPORTED-DATE": "08-10-2023"
+              },
+              {
+                "VALUE": "1 ST FLOOR,  NO 64,  MUNIRAMAREDDY BUILDING HONNENAHALLI NEAR WATER TANK,  YELAHANKA BENGALURU YELAHANKABENGALURU,  KA,  560064 560064 KA",
+                "REPORTED-DATE": "30-11-2025"
+              },
+              {
+                "VALUE": "1 ST FLOOR,  NO 64,  MUNIRAMAREDDY BUILDING,  HONNENAHALLI,  NEAR WATER TANK,  BENGALURU,  KARNATAKA,  INDIA,  560064 560064 KA",
+                "REPORTED-DATE": "15-12-2025"
+              },
+              {
+                "VALUE": ",  YELAHANKA,  ,  HONNENAHALLI,  1 ST FLOOR,  NO 64,  MUNIRAMAREDDY BUILDING,  NEAR WATER TANK 560064 KA",
+                "REPORTED-DATE": "30-11-2025"
+              },
+              {
+                "VALUE": "1 ST FLOOR,  NO 64,  MUNIRAMAREDDY BUILDING, NEAR WATER TANK, HONNENAHALLI, YELAHANKA, BENGALURU, YELAHANKA, 560064, KARNATAKA, INDIA 560064 KA",
+                "REPORTED-DATE": "15-12-2025"
+              },
+              {
+                "VALUE": "FED BANK FINANCIAL SERVICES WILSON GARDEN DUBEL ROAD BANGOLRE BENG1 560027 KA",
+                "REPORTED-DATE": "30-11-2025"
+              },
+              {
+                "VALUE": "KELLY SERVICES INDIA PVT LTD C/O HERO FIN CORP NO 90 BYATRAYANAPURA MAIN ROAD BANGALORE 560092 TN",
+                "REPORTED-DATE": "15-11-2025"
+              },
+              {
+                "VALUE": "1 ST FLOOR,  NO 64,  MUNIRAMAREDDY BUILDING,  HONNENAHALLI,  NEAR WATER TANK,  VTC: YELAHANKA,  PO: YELAHANKA,  DISTRICT: BENGALURU,  STATE: KAMATAKA,  PIN CODE: 560064,  560064 KA",
+                "REPORTED-DATE": "15-07-2024"
+              },
+              {
+                "VALUE": "BENGALURU,  KARNATAKA,  560064 560064 KA",
+                "REPORTED-DATE": "31-01-2025"
+              },
+              {
+                "VALUE": "PRAGATHI NAGAR MOOSAPET 500018 TS",
+                "REPORTED-DATE": "15-12-2025"
+              },
+              {
+                "VALUE": "6-00-B-C-COLONY-URAVAKONDA-AMIDYALA ANANTAPUR ANANTAPUR 515822 515822 AP",
+                "REPORTED-DATE": "15-03-2025"
+              },
+              {
+                "VALUE": "HOUSE NO 64 1ST FLOOR MUNIREDDY BUILDING HONANAHALLI VILLAGE BANGALORE 560064 KA",
+                "REPORTED-DATE": "31-05-2021"
+              },
+              {
+                "VALUE": "BENGALURU KARNATAKA 560064 560064 KA",
+                "REPORTED-DATE": "31-01-2025"
+              },
+              {
+                "VALUE": "NO 124166 1 ST FLOOR ROAD NO 2 PRAGATHI NAGAR MOOSAPET 500080 TS",
+                "REPORTED-DATE": "30-06-2025"
+              },
+              {
+                "VALUE": "K V RANGAREDDY TELANGANA 500018 K V RANGAREDDY 500018 TS",
+                "REPORTED-DATE": "30-11-2025"
+              },
+              {
+                "VALUE": "HERO MOTOCORP LIMITED 212 BELLARY MAIN R OADSADASHIVA NAGAR 560080 KA",
+                "REPORTED-DATE": "31-01-2023"
+              }
+            ]
+          },
+          "PAN-VARIATIONS": {
+            "VARIATION": {
+              "VALUE": "GCAPS2958R",
+              "REPORTED-DATE": "15-12-2025"
+            }
+          },
+          "UID-VARIATIONS": "",
+          "OTHER-ID-VARIATIONS": {
+            "VARIATION": {
+              "VALUE": "20099733185423",
+              "REPORTED-DATE": "15-12-2025"
+            }
+          },
+          "DRIVING-LICENSE-VARIATIONS": "",
+          "DATE-OF-BIRTH-VARIATIONS": {
+            "VARIATION": {
+              "VALUE": "24-05-1988",
+              "REPORTED-DATE": "15-12-2025"
+            }
+          },
+          "VOTER-ID-VARIATIONS": "",
+          "PASSPORT-VARIATIONS": "",
+          "PHONE-NUMBER-VARIATIONS": {
+            "VARIATION": [
+              {
+                "VALUE": "69000697",
+                "REPORTED-DATE": "30-11-2025"
+              },
+              {
+                "VALUE": "85542345678",
+                "REPORTED-DATE": "08-10-2023"
+              },
+              {
+                "VALUE": "9515070734",
+                "REPORTED-DATE": "30-11-2025"
+              },
+              {
+                "VALUE": "09986429482",
+                "REPORTED-DATE": "30-11-2025"
+              },
+              {
+                "VALUE": "000008069000697",
+                "REPORTED-DATE": "30-05-2025"
+              },
+              {
+                "VALUE": "9986429482",
+                "REPORTED-DATE": "15-12-2025"
+              },
+              {
+                "VALUE": "000809986429482",
+                "REPORTED-DATE": "30-05-2025"
+              },
+              {
+                "VALUE": "9886429482",
+                "REPORTED-DATE": "31-01-2018"
+              },
+              {
+                "VALUE": "00919986429482",
+                "REPORTED-DATE": "30-11-2025"
+              },
+              {
+                "VALUE": "0809986429482",
+                "REPORTED-DATE": "30-04-2025"
+              },
+              {
+                "VALUE": "802345678",
+                "REPORTED-DATE": "08-10-2023"
+              },
+              {
+                "VALUE": "919986429482",
+                "REPORTED-DATE": "15-02-2025"
+              },
+              {
+                "VALUE": "8023614640",
+                "REPORTED-DATE": "08-10-2023"
+              }
+            ]
+          },
+          "RATION-CARD-VARIATIONS": "",
+          "EMAIL-VARIATIONS": {
+            "VARIATION": [
+              {
+                "VALUE": "BIMAL.BANGALORE@HEROFINCORP.BIZ",
+                "REPORTED-DATE": "30-11-2025"
+              },
+              {
+                "VALUE": "VIMAL.BANGALOREFIMCORP.BTZ",
+                "REPORTED-DATE": "30-11-2025"
+              },
+              {
+                "VALUE": "VIMAL.BANGALORE@FIMCORP.BTZ",
+                "REPORTED-DATE": "24-05-2017"
+              },
+              {
+                "VALUE": "siivasankar@gmail.com",
+                "REPORTED-DATE": "15-12-2025"
+              },
+              {
+                "VALUE": "sivasankar.boya@fedfina.com",
+                "REPORTED-DATE": "29-03-2025"
+              }
+            ]
+          }
+        },
+        "SECONDARY-MATCHES": "",
+        "ACCOUNTS-SUMMARY": {
+          "DERIVED-ATTRIBUTES": {
+            "INQURIES-IN-LAST-SIX-MONTHS": "3",
+            "LENGTH-OF-CREDIT-HISTORY-YEAR": "9",
+            "LENGTH-OF-CREDIT-HISTORY-MONTH": "2",
+            "AVERAGE-ACCOUNT-AGE-YEAR": "0",
+            "AVERAGE-ACCOUNT-AGE-MONTH": "11",
+            "NEW-ACCOUNTS-IN-LAST-SIX-MONTHS": "23",
+            "NEW-DELINQ-ACCOUNT-IN-LAST-SIX-MONTHS": "2"
+          },
+          "PRIMARY-ACCOUNTS-SUMMARY": {
+            "PRIMARY-NUMBER-OF-ACCOUNTS": "79",
+            "PRIMARY-ACTIVE-NUMBER-OF-ACCOUNTS": "22",
+            "PRIMARY-OVERDUE-NUMBER-OF-ACCOUNTS": "1",
+            "PRIMARY-SECURED-NUMBER-OF-ACCOUNTS": "2",
+            "PRIMARY-UNSECURED-NUMBER-OF-ACCOUNTS": "77",
+            "PRIMARY-UNTAGGED-NUMBER-OF-ACCOUNTS": "0",
+            "PRIMARY-CURRENT-BALANCE": "5,91,426",
+            "PRIMARY-SANCTIONED-AMOUNT": "14,20,522",
+            "PRIMARY-DISBURSED-AMOUNT": "14,20,522"
+          },
+          "SECONDARY-ACCOUNTS-SUMMARY": {
+            "SECONDARY-NUMBER-OF-ACCOUNTS": "0",
+            "SECONDARY-ACTIVE-NUMBER-OF-ACCOUNTS": "0",
+            "SECONDARY-OVERDUE-NUMBER-OF-ACCOUNTS": "0",
+            "SECONDARY-SECURED-NUMBER-OF-ACCOUNTS": "0",
+            "SECONDARY-UNSECURED-NUMBER-OF-ACCOUNTS": "0",
+            "SECONDARY-UNTAGGED-NUMBER-OF-ACCOUNTS": "0",
+            "SECONDARY-CURRENT-BALANCE": "0",
+            "SECONDARY-SANCTIONED-AMOUNT": "0",
+            "SECONDARY-DISBURSED-AMOUNT": "0"
+          }
+        },
+        "EMPLOYMENT-DETAILS": {
+          "EMPLOYMENT-DETAIL": {
+            "ACCT-TYPE": "Personal Loan",
+            "DATE-REPORTED": "15-12-2025",
+            "OCCUPATION": "SALARIED",
+            "INCOME-FREQUENCY": "M",
+            "INCOME-INDICATOR": "N"
+          }
+        },
+        "RESPONSES": {
+          "RESPONSE": [
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "HC202412270955396418",
+                "CREDIT-GUARANTOR": "R K BANSAL FINANCE",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "31-01-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "10,000",
+                "DISBURSED-DT": "27-12-2024",
+                "CLOSED-DATE": "31-01-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Jan:2025,000/XXX|Dec:2024,000/XXX|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0",
+                "SUIT-FILED_WILFUL-DEFAULT": "No Suit filed",
+                "WRITTEN-OFF_SETTLED-STATUS": ""
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "55867336",
+                "CREDIT-GUARANTOR": "IDFC",
+                "ACCT-TYPE": "Two-Wheeler Loan",
+                "DATE-REPORTED": "31-12-2022",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "55,000",
+                "DISBURSED-DT": "03-11-2021",
+                "LAST-PAYMENT-DATE": "04-12-2022",
+                "CLOSED-DATE": "11-12-2022",
+                "INSTALLMENT-AMT": "4,951/Monthly",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Dec:2022,000/XXX|Nov:2022,000/XXX|Oct:2022,000/XXX|Sep:2022,000/XXX|Aug:2022,000/XXX|Jul:2022,000/XXX|Jun:2022,000/XXX|May:2022,000/XXX|Apr:2022,000/XXX|Mar:2022,000/XXX|Feb:2022,000/XXX|Jan:2022,000/XXX|Dec:2021,000/XXX|Nov:2021,000/XXX|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "12",
+                "SUIT-FILED_WILFUL-DEFAULT": "No Suit filed",
+                "ACTUAL-PAYMENT": "59,401"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "DELPPL00100013190341",
+                "CREDIT-GUARANTOR": "HERO FINCORP LIMITED",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "31-03-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "80,000",
+                "DISBURSED-DT": "07-07-2023",
+                "LAST-PAYMENT-DATE": "07-01-2025",
+                "CLOSED-DATE": "21-03-2025",
+                "INSTALLMENT-AMT": "5,183/Monthly",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Mar:2025,000/STD|Feb:2025,000/STD|Jan:2025,000/STD|Dec:2024,000/STD|Nov:2024,000/STD|Oct:2024,000/STD|Sep:2024,026/STD|Aug:2024,058/STD|Jul:2024,057/STD|Jun:2024,057/STD|May:2024,027/STD|Apr:2024,026/STD|Mar:2024,000/STD|Feb:2024,000/STD|Jan:2024,000/STD|Dec:2023,000/STD|Nov:2023,000/STD|Oct:2023,000/STD|Sep:2023,000/STD|Aug:2023,000/STD|Jul:2023,000/STD|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "18",
+                "INTEREST-RATE": "24.0",
+                "SUIT-FILED_WILFUL-DEFAULT": "No Suit filed",
+                "ACTUAL-PAYMENT": "96,355"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "BLSMPLZ000191929",
+                "CREDIT-GUARANTOR": "SOLOMON CAPITAL PVT LTD",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "30-11-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "33,000",
+                "DISBURSED-DT": "03-10-2025",
+                "LAST-PAYMENT-DATE": "03-11-2025",
+                "CLOSED-DATE": "03-11-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Nov:2025,000/STD|Oct:2025,000/STD|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "PFKBSC14000011531669",
+                "CREDIT-GUARANTOR": "PAYU FINANCE PRIVATE LIMITED",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "31-01-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "48,000",
+                "DISBURSED-DT": "19-01-2024",
+                "LAST-PAYMENT-DATE": "18-01-2025",
+                "CLOSED-DATE": "18-01-2025",
+                "INSTALLMENT-AMT": "4,378/Monthly",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Jan:2025,000/STD|Dec:2024,000/STD|Nov:2024,000/STD|Oct:2024,000/STD|Sep:2024,000/STD|Aug:2024,000/STD|Jul:2024,000/STD|Jun:2024,000/STD|May:2024,000/STD|Apr:2024,000/STD|Mar:2024,000/STD|Feb:2024,000/STD|Jan:2024,000/STD|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "PRINCIPAL-WRITE-OFF-AMT": "0",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0",
+                "SETTLEMENT-AMT": "0"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "BLSMPLZ000149615",
+                "CREDIT-GUARANTOR": "SOLOMON CAPITAL PVT LTD",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "30-09-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "32,000",
+                "DISBURSED-DT": "05-08-2025",
+                "LAST-PAYMENT-DATE": "04-09-2025",
+                "CLOSED-DATE": "04-09-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Sep:2025,000/STD|Aug:2025,000/STD|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "6239082",
+                "CREDIT-GUARANTOR": "SAMPATI SECURITIES LIMITED",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "31-07-2024",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "15,000",
+                "DISBURSED-DT": "02-07-2024",
+                "CLOSED-DATE": "31-07-2024",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Jul:2024,000/DBT|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0",
+                "INTEREST-RATE": "0.45",
+                "ACTUAL-PAYMENT": "16,958"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "HC202509011142053053",
+                "CREDIT-GUARANTOR": "R K BANSAL FINANCE",
+                "ACCT-TYPE": "Short Term Personal Loan",
+                "DATE-REPORTED": "15-10-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "12,000",
+                "DISBURSED-DT": "01-09-2025",
+                "CLOSED-DATE": "01-10-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Oct:2025,000/XXX|Sep:2025,000/XXX|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0",
+                "SUIT-FILED_WILFUL-DEFAULT": "No Suit filed",
+                "WRITTEN-OFF_SETTLED-STATUS": ""
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "6570214",
+                "CREDIT-GUARANTOR": "SAMPATI SECURITIES LIMITED",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "31-10-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "29,000",
+                "DISBURSED-DT": "02-09-2025",
+                "CLOSED-DATE": "01-10-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Oct:2025,000/STD|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "30",
+                "INTEREST-RATE": "0.35",
+                "SUIT-FILED_WILFUL-DEFAULT": "No Suit filed",
+                "ACTUAL-PAYMENT": "32,045"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "205958751",
+                "CREDIT-GUARANTOR": "FINCFRIENDS PRIVATE LIMITED",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "30-11-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Active",
+                "DISBURSED-AMT": "41,000",
+                "DISBURSED-DT": "16-08-2025",
+                "LAST-PAYMENT-DATE": "14-10-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "12,833",
+                "COMBINED-PAYMENT-HISTORY": "Nov:2025,000/XXX|Oct:2025,000/XXX|Sep:2025,000/XXX|Aug:2025,000/XXX|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "MKVCD2A68AEID219925793",
+                "CREDIT-GUARANTOR": "MPOKKET FINANCIAL SERVICES",
+                "ACCT-TYPE": "Short Term Personal Loan",
+                "DATE-REPORTED": "30-11-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Active",
+                "DISBURSED-AMT": "4,000",
+                "DISBURSED-DT": "18-10-2025",
+                "LAST-PAYMENT-DATE": "17-11-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "2,634",
+                "COMBINED-PAYMENT-HISTORY": "Nov:2025,000/XXX|Oct:2025,000/XXX|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "6",
+                "ACTUAL-PAYMENT": "1,732"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "BLPLZ00000056665",
+                "CREDIT-GUARANTOR": "DEVMUNI LEASING AND FINANCE L",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "31-08-2024",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "11,900",
+                "DISBURSED-DT": "07-07-2024",
+                "LAST-PAYMENT-DATE": "01-08-2024",
+                "CLOSED-DATE": "01-08-2024",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Aug:2024,000/STD|Jul:2024,000/STD|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "XXXXXXXXXXXXXXX8492",
+                "CREDIT-GUARANTOR": "HDFC BANK LTD",
+                "ACCT-TYPE": "Credit Card",
+                "DATE-REPORTED": "30-11-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Active",
+                "DISBURSED-AMT": "44,927",
+                "DISBURSED-DT": "22-09-2016",
+                "LAST-PAYMENT-DATE": "11-11-2025",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "41,120",
+                "COMBINED-PAYMENT-HISTORY": "Nov:2025,000/XXX|Oct:2025,000/XXX|Sep:2025,000/XXX|Aug:2025,000/XXX|Jul:2025,000/XXX|Jun:2025,000/XXX|May:2025,000/XXX|Apr:2025,000/XXX|Mar:2025,000/XXX|Feb:2025,000/XXX|Jan:2025,000/XXX|Dec:2024,000/XXX|Nov:2024,000/XXX|Oct:2024,000/XXX|Sep:2024,000/XXX|Aug:2024,000/XXX|Jul:2024,000/XXX|Jun:2024,028/XXX|May:2024,028/XXX|Apr:2024,028/XXX|Mar:2024,000/XXX|Feb:2024,000/XXX|Jan:2024,000/XXX|Dec:2023,000/XXX|Nov:2023,000/XXX|Oct:2023,000/XXX|Sep:2023,000/XXX|Aug:2023,000/XXX|Jul:2023,000/XXX|Jun:2023,000/XXX|May:2023,000/XXX|Apr:2023,000/XXX|Mar:2023,000/XXX|Feb:2023,000/XXX|Jan:2023,000/XXX|Dec:2022,000/XXX|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "CREDIT-LIMIT": "39,000",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "6266430",
+                "CREDIT-GUARANTOR": "SAMPATI SECURITIES LIMITED",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "31-08-2024",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "15,000",
+                "DISBURSED-DT": "31-07-2024",
+                "CLOSED-DATE": "31-08-2024",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Aug:2024,000/STD|Jul:2024,000/STD|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0",
+                "INTEREST-RATE": "0.45",
+                "ACTUAL-PAYMENT": "17,160"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "6440954",
+                "CREDIT-GUARANTOR": "SAMPATI SECURITIES LIMITED",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "29-03-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "17,000",
+                "DISBURSED-DT": "31-01-2025",
+                "CLOSED-DATE": "04-03-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Mar:2025,000/STD|Feb:2025,XXX/XXX|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0",
+                "INTEREST-RATE": "0.35",
+                "SUIT-FILED_WILFUL-DEFAULT": "No Suit filed",
+                "ACTUAL-PAYMENT": "18,785"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "XXXXXXXXXXXX3013",
+                "CREDIT-GUARANTOR": "ICICI BANK LTD",
+                "ACCT-TYPE": "Credit Card",
+                "DATE-REPORTED": "30-11-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Active",
+                "DISBURSED-AMT": "42,212",
+                "DISBURSED-DT": "18-12-2017",
+                "LAST-PAYMENT-DATE": "26-09-2023",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "47,724",
+                "COMBINED-PAYMENT-HISTORY": "Nov:2025,000/XXX|Oct:2025,XXX/XXX|Sep:2025,000/XXX|Aug:2025,XXX/XXX|Jul:2025,XXX/XXX|Jun:2025,XXX/XXX|May:2025,XXX/XXX|Apr:2025,000/XXX|Mar:2025,XXX/XXX|Feb:2025,XXX/XXX|Jan:2025,XXX/XXX|Dec:2024,000/XXX|Nov:2024,XXX/XXX|Oct:2024,000/XXX|Sep:2024,XXX/XXX|Aug:2024,000/XXX|Jul:2024,XXX/XXX|Jun:2024,000/XXX|May:2024,XXX/XXX|Apr:2024,XXX/XXX|Mar:2024,XXX/XXX|Feb:2024,000/XXX|Jan:2024,XXX/XXX|Dec:2023,XXX/XXX|Nov:2023,XXX/XXX|Oct:2023,000/XXX|Sep:2023,000/XXX|Aug:2023,000/XXX|Jul:2023,000/XXX|Jun:2023,000/XXX|May:2023,000/XXX|Apr:2023,000/XXX|Mar:2023,000/XXX|Feb:2023,000/XXX|Jan:2023,000/XXX|Dec:2022,000/XXX|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "CREDIT-LIMIT": "50,000",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0",
+                "SUIT-FILED_WILFUL-DEFAULT": "No Suit filed",
+                "CASH-LIMIT": "5,000"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "BLSMPLZ000126562",
+                "CREDIT-GUARANTOR": "SOLOMON CAPITAL PVT LTD",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "31-08-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "25,000",
+                "DISBURSED-DT": "04-07-2025",
+                "LAST-PAYMENT-DATE": "05-08-2025",
+                "CLOSED-DATE": "05-08-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Aug:2025,000/STD|Jul:2025,000/STD|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "KB240119BOOYR",
+                "CREDIT-GUARANTOR": "KRAZYBEE SERVICES PRIVATE LIMITED",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "31-01-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "12,000",
+                "DISBURSED-DT": "19-01-2024",
+                "LAST-PAYMENT-DATE": "18-01-2025",
+                "CLOSED-DATE": "18-01-2025",
+                "INSTALLMENT-AMT": "1,363/Monthly",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Jan:2025,000/STD|Dec:2024,000/STD|Nov:2024,000/STD|Oct:2024,000/STD|Sep:2024,000/STD|Aug:2024,000/STD|Jul:2024,000/STD|Jun:2024,000/STD|May:2024,000/STD|Apr:2024,000/STD|Mar:2024,000/STD|Feb:2024,000/STD|Jan:2024,000/STD|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "12"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "MKV10F768AFID193260381",
+                "CREDIT-GUARANTOR": "MPOKKET FINANCIAL SERVICES",
+                "ACCT-TYPE": "Short Term Personal Loan",
+                "DATE-REPORTED": "30-11-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Active",
+                "DISBURSED-AMT": "2,000",
+                "DISBURSED-DT": "20-06-2025",
+                "LAST-PAYMENT-DATE": "17-11-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "248",
+                "COMBINED-PAYMENT-HISTORY": "Nov:2025,000/XXX|Oct:2025,000/XXX|Sep:2025,000/XXX|Aug:2025,000/XXX|Jul:2025,000/XXX|Jun:2025,000/XXX|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "6",
+                "ACTUAL-PAYMENT": "256"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "BLDMPLZ000016564",
+                "CREDIT-GUARANTOR": "DEVMUNI LEASING AND FINANCE L",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "31-12-2024",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "19,500",
+                "DISBURSED-DT": "23-10-2024",
+                "LAST-PAYMENT-DATE": "02-12-2024",
+                "CLOSED-DATE": "02-12-2024",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Dec:2024,000/STD|Nov:2024,000/STD|Oct:2024,000/STD|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "HC202510011349161320",
+                "CREDIT-GUARANTOR": "R K BANSAL FINANCE",
+                "ACCT-TYPE": "Short Term Personal Loan",
+                "DATE-REPORTED": "31-10-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "12,000",
+                "DISBURSED-DT": "01-10-2025",
+                "CLOSED-DATE": "31-10-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Oct:2025,000/XXX|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0",
+                "SUIT-FILED_WILFUL-DEFAULT": "No Suit filed",
+                "WRITTEN-OFF_SETTLED-STATUS": ""
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "HC202511011458065624",
+                "CREDIT-GUARANTOR": "R K BANSAL FINANCE",
+                "ACCT-TYPE": "Short Term Personal Loan",
+                "DATE-REPORTED": "30-11-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Active",
+                "DISBURSED-AMT": "13,000",
+                "DISBURSED-DT": "01-11-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "13,000",
+                "COMBINED-PAYMENT-HISTORY": "Nov:2025,000/XXX|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0",
+                "SUIT-FILED_WILFUL-DEFAULT": "No Suit filed",
+                "WRITTEN-OFF_SETTLED-STATUS": ""
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "BLSMPLZ000027373",
+                "CREDIT-GUARANTOR": "SOLOMON CAPITAL PVT LTD",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "28-02-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "17,000",
+                "DISBURSED-DT": "19-01-2025",
+                "LAST-PAYMENT-DATE": "03-02-2025",
+                "CLOSED-DATE": "03-02-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Feb:2025,000/STD|Jan:2025,000/STD|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "NBR2023112482014",
+                "CREDIT-GUARANTOR": "KISETSU SAISON FINANCE INDIA",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "30-11-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Active",
+                "DISBURSED-AMT": "97,000",
+                "DISBURSED-DT": "05-12-2023",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Nov:2025,000/XXX|Oct:2025,000/XXX|Sep:2025,000/XXX|Aug:2025,000/XXX|Jul:2025,000/XXX|Jun:2025,000/XXX|May:2025,000/XXX|Apr:2025,000/XXX|Mar:2025,000/XXX|Feb:2025,000/XXX|Jan:2025,000/XXX|Dec:2024,000/XXX|Nov:2024,000/XXX|Oct:2024,000/XXX|Sep:2024,000/XXX|Aug:2024,000/XXX|Jul:2024,000/XXX|Jun:2024,000/XXX|May:2024,000/XXX|Apr:2024,000/XXX|Mar:2024,000/XXX|Feb:2024,000/XXX|Jan:2024,000/XXX|Dec:2023,000/XXX|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "SPLN73304454",
+                "CREDIT-GUARANTOR": "KOTAK MAHINDRA BANK",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "30-11-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Active",
+                "DISBURSED-AMT": "50,000",
+                "DISBURSED-DT": "29-03-2023",
+                "LAST-PAYMENT-DATE": "14-07-2025",
+                "INSTALLMENT-AMT": "2,770/Monthly",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Nov:2025,000/STD|Oct:2025,000/XXX|Sep:2025,000/XXX|Aug:2025,000/XXX|Jul:2025,000/STD|Jun:2025,000/STD|May:2025,000/XXX|Apr:2025,000/XXX|Mar:2025,000/XXX|Feb:2025,029/XXX|Jan:2025,030/STD|Dec:2024,030/XXX|Nov:2024,029/XXX|Oct:2024,000/XXX|Sep:2024,000/XXX|Aug:2024,000/XXX|Jul:2024,000/XXX|Jun:2024,000/STD|May:2024,000/XXX|Apr:2024,001/XXX|Mar:2024,000/STD|Feb:2024,000/STD|Jan:2024,000/XXX|Dec:2023,000/XXX|Nov:2023,000/STD|Oct:2023,000/XXX|Sep:2023,000/XXX|Aug:2023,000/XXX|Jul:2023,000/XXX|Jun:2023,000/XXX|May:2023,000/XXX|Apr:2023,000/XXX|Mar:2023,000/XXX|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "24",
+                "SUIT-FILED_WILFUL-DEFAULT": "No Suit filed"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "BLSMPLZ000063286",
+                "CREDIT-GUARANTOR": "SOLOMON CAPITAL PVT LTD",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "31-05-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "20,000",
+                "DISBURSED-DT": "02-04-2025",
+                "LAST-PAYMENT-DATE": "05-05-2025",
+                "CLOSED-DATE": "05-05-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "May:2025,000/STD|Apr:2025,000/STD|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "LOS8ZHEY18RKGRA2YPP",
+                "CREDIT-GUARANTOR": "SI CREVA CAPITAL",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "30-11-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Active",
+                "DISBURSED-AMT": "7,000",
+                "DISBURSED-DT": "21-06-2025",
+                "LAST-PAYMENT-DATE": "21-11-2025",
+                "INSTALLMENT-AMT": "703",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "4,387",
+                "COMBINED-PAYMENT-HISTORY": "Nov:2025,000/XXX|Oct:2025,000/XXX|Sep:2025,000/XXX|Aug:2025,000/XXX|Jul:2025,000/XXX|Jun:2025,000/XXX|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "HC202502281137411844",
+                "CREDIT-GUARANTOR": "R K BANSAL FINANCE",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "15-04-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "11,000",
+                "DISBURSED-DT": "28-02-2025",
+                "CLOSED-DATE": "01-04-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Apr:2025,000/XXX|Mar:2025,000/XXX|Feb:2025,000/XXX|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0",
+                "SUIT-FILED_WILFUL-DEFAULT": "No Suit filed",
+                "WRITTEN-OFF_SETTLED-STATUS": ""
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "HC202507011021376295",
+                "CREDIT-GUARANTOR": "R K BANSAL FINANCE",
+                "ACCT-TYPE": "Short Term Personal Loan",
+                "DATE-REPORTED": "15-08-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "12,000",
+                "DISBURSED-DT": "01-07-2025",
+                "CLOSED-DATE": "01-08-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Aug:2025,000/XXX|Jul:2025,000/XXX|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0",
+                "SUIT-FILED_WILFUL-DEFAULT": "No Suit filed",
+                "WRITTEN-OFF_SETTLED-STATUS": ""
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "6408940",
+                "CREDIT-GUARANTOR": "SAMPATI SECURITIES LIMITED",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "21-02-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "17,000",
+                "DISBURSED-DT": "02-01-2025",
+                "CLOSED-DATE": "31-01-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Jan:2025,000/STD|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0",
+                "INTEREST-RATE": "0.35",
+                "SUIT-FILED_WILFUL-DEFAULT": "No Suit filed",
+                "ACTUAL-PAYMENT": "18,785"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "220027305614134",
+                "CREDIT-GUARANTOR": "SMICC",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "30-11-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Active",
+                "DISBURSED-AMT": "1,00,000",
+                "DISBURSED-DT": "03-02-2024",
+                "LAST-PAYMENT-DATE": "10-11-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "15,002",
+                "COMBINED-PAYMENT-HISTORY": "Nov:2025,000/XXX|Oct:2025,000/XXX|Sep:2025,000/XXX|Aug:2025,000/XXX|Jul:2025,000/XXX|Jun:2025,000/XXX|May:2025,000/XXX|Apr:2025,000/XXX|Mar:2025,000/XXX|Feb:2025,000/XXX|Jan:2025,000/XXX|Dec:2024,000/XXX|Nov:2024,000/XXX|Oct:2024,000/XXX|Sep:2024,000/XXX|Aug:2024,000/XXX|Jul:2024,000/XXX|Jun:2024,000/XXX|May:2024,000/XXX|Apr:2024,000/XXX|Mar:2024,000/XXX|Feb:2024,000/XXX|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "PRINCIPAL-WRITE-OFF-AMT": "0",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "203273993",
+                "CREDIT-GUARANTOR": "FINCFRIENDS PRIVATE LIMITED",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "31-05-2024",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "5,000",
+                "DISBURSED-DT": "09-04-2024",
+                "LAST-PAYMENT-DATE": "08-05-2024",
+                "CLOSED-DATE": "08-05-2024",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "May:2024,000/XXX|Apr:2024,000/XXX|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "BLSMPLZ000214418",
+                "CREDIT-GUARANTOR": "SOLOMON CAPITAL PVT LTD",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "30-11-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Active",
+                "DISBURSED-AMT": "33,000",
+                "DISBURSED-DT": "03-11-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "43,230",
+                "COMBINED-PAYMENT-HISTORY": "Nov:2025,000/STD|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "6301729",
+                "CREDIT-GUARANTOR": "SAMPATI SECURITIES LIMITED",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "22-10-2024",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "17,000",
+                "DISBURSED-DT": "31-08-2024",
+                "CLOSED-DATE": "01-10-2024",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Oct:2024,000/STD|Sep:2024,XXX/XXX|Aug:2024,000/STD|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0",
+                "INTEREST-RATE": "0.45",
+                "ACTUAL-PAYMENT": "19,448"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "BLSMPLZ000086453",
+                "CREDIT-GUARANTOR": "SOLOMON CAPITAL PVT LTD",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "30-06-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "20,000",
+                "DISBURSED-DT": "06-05-2025",
+                "LAST-PAYMENT-DATE": "03-06-2025",
+                "CLOSED-DATE": "03-06-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Jun:2025,000/STD|May:2025,000/STD|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "TBLV15-50525-7019679",
+                "CREDIT-GUARANTOR": "TRUE CREDITS PRIVATE LIMITED",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "31-10-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "2,562",
+                "DISBURSED-DT": "25-05-2025",
+                "LAST-PAYMENT-DATE": "25-10-2025",
+                "CLOSED-DATE": "25-10-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Oct:2025,000/XXX|Sep:2025,000/XXX|Aug:2025,000/XXX|Jul:2025,000/XXX|Jun:2025,000/XXX|May:2025,000/XXX|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "6",
+                "INTEREST-RATE": "45.36",
+                "SUIT-FILED_WILFUL-DEFAULT": "No Suit filed"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "LXW-M09523-242847401",
+                "CREDIT-GUARANTOR": "ADITYA BIRLA CAPITAL LIMITED",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "30-11-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Active",
+                "DISBURSED-AMT": "1,90,000",
+                "DISBURSED-DT": "21-09-2023",
+                "INSTALLMENT-AMT": "7,061",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "72,632",
+                "COMBINED-PAYMENT-HISTORY": "Nov:2025,000/STD|Oct:2025,000/STD|Sep:2025,000/STD|Aug:2025,000/STD|Jul:2025,000/STD|Jun:2025,000/STD|May:2025,000/STD|Apr:2025,000/STD|Mar:2025,000/STD|Feb:2025,000/STD|Jan:2025,000/STD|Dec:2024,000/STD|Nov:2024,011/STD|Oct:2024,000/STD|Sep:2024,000/STD|Aug:2024,000/STD|Jul:2024,000/STD|Jun:2024,000/STD|May:2024,000/STD|Apr:2024,000/STD|Mar:2024,000/STD|Feb:2024,000/STD|Jan:2024,000/STD|Dec:2023,000/STD|Nov:2023,000/STD|Oct:2023,000/STD|Sep:2023,000/STD|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0",
+                "SUIT-FILED_WILFUL-DEFAULT": "No Suit filed"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "6212497",
+                "CREDIT-GUARANTOR": "SAMPATI SECURITIES LIMITED",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "31-07-2024",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "13,500",
+                "DISBURSED-DT": "14-06-2024",
+                "CLOSED-DATE": "02-07-2024",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Jul:2024,000/DBT|Jun:2024,000/STD|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0",
+                "INTEREST-RATE": "0.45",
+                "ACTUAL-PAYMENT": "14,594"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "HC202504010949521671",
+                "CREDIT-GUARANTOR": "R K BANSAL FINANCE",
+                "ACCT-TYPE": "Short Term Personal Loan",
+                "DATE-REPORTED": "30-04-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Active",
+                "DISBURSED-AMT": "11,000",
+                "DISBURSED-DT": "01-04-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "11,000",
+                "COMBINED-PAYMENT-HISTORY": "Apr:2025,000/XXX|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0",
+                "SUIT-FILED_WILFUL-DEFAULT": "No Suit filed",
+                "WRITTEN-OFF_SETTLED-STATUS": ""
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "HC202508011128207884",
+                "CREDIT-GUARANTOR": "R K BANSAL FINANCE",
+                "ACCT-TYPE": "Short Term Personal Loan",
+                "DATE-REPORTED": "15-09-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "12,000",
+                "DISBURSED-DT": "01-08-2025",
+                "CLOSED-DATE": "01-09-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Sep:2025,000/XXX|Aug:2025,000/XXX|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0",
+                "SUIT-FILED_WILFUL-DEFAULT": "No Suit filed",
+                "WRITTEN-OFF_SETTLED-STATUS": ""
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "TCFPL0485000010796265",
+                "CREDIT-GUARANTOR": "TATA CAPITAL LIMITED",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "15-12-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Active",
+                "DISBURSED-AMT": "1,98,000",
+                "DISBURSED-DT": "13-02-2020",
+                "LAST-PAYMENT-DATE": "16-02-2024",
+                "INSTALLMENT-AMT": "5,739/Monthly",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Dec:2025,000/XXX|Nov:2025,000/XXX|Oct:2025,000/XXX|Sep:2025,000/XXX|Aug:2025,000/XXX|Jul:2025,000/XXX|Jun:2025,000/XXX|May:2025,000/XXX|Apr:2025,000/XXX|Mar:2025,000/XXX|Feb:2025,000/XXX|Jan:2025,000/XXX|Dec:2024,000/XXX|Nov:2024,000/XXX|Oct:2024,000/XXX|Sep:2024,000/XXX|Aug:2024,000/XXX|Jul:2024,000/XXX|Jun:2024,000/XXX|May:2024,000/XXX|Apr:2024,000/XXX|Mar:2024,000/XXX|Feb:2024,000/XXX|Jan:2024,000/XXX|Dec:2023,000/XXX|Nov:2023,XXX/XXX|Oct:2023,000/XXX|Sep:2023,000/XXX|Aug:2023,000/XXX|Jul:2023,000/XXX|Jun:2023,000/XXX|May:2023,000/XXX|Apr:2023,XXX/XXX|Mar:2023,000/XXX|Feb:2023,000/XXX|Jan:2023,000/XXX|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "48",
+                "INTEREST-RATE": "17.25"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "HC202412021847278682",
+                "CREDIT-GUARANTOR": "R K BANSAL FINANCE",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "31-12-2024",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "10,000",
+                "DISBURSED-DT": "02-12-2024",
+                "CLOSED-DATE": "27-12-2024",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Dec:2024,000/XXX|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0",
+                "SUIT-FILED_WILFUL-DEFAULT": "No Suit filed",
+                "WRITTEN-OFF_SETTLED-STATUS": ""
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "XXXXXXXXXXXXXXX8785",
+                "CREDIT-GUARANTOR": "INDUSIND BANK",
+                "ACCT-TYPE": "Credit Card",
+                "DATE-REPORTED": "30-11-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Active",
+                "DISBURSED-AMT": "1,12,634",
+                "DISBURSED-DT": "29-01-2018",
+                "LAST-PAYMENT-DATE": "28-10-2025",
+                "INSTALLMENT-AMT": "4,921",
+                "OVERDUE-AMT": "9,971",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "1,12,634",
+                "COMBINED-PAYMENT-HISTORY": "Nov:2025,008/XXX|Oct:2025,000/XXX|Sep:2025,000/XXX|Aug:2025,000/XXX|Jul:2025,000/XXX|Jun:2025,000/XXX|May:2025,000/XXX|Apr:2025,000/XXX|Mar:2025,000/XXX|Feb:2025,XXX/XXX|Jan:2025,XXX/XXX|Dec:2024,XXX/XXX|Nov:2024,XXX/XXX|Oct:2024,XXX/XXX|Sep:2024,XXX/XXX|Aug:2024,XXX/XXX|Jul:2024,XXX/XXX|Jun:2024,XXX/XXX|May:2024,XXX/XXX|Apr:2024,XXX/XXX|Mar:2024,XXX/XXX|Feb:2024,XXX/XXX|Jan:2024,XXX/XXX|Dec:2023,XXX/XXX|Nov:2023,XXX/XXX|Oct:2023,XXX/XXX|Sep:2023,XXX/XXX|Aug:2023,XXX/XXX|Jul:2023,XXX/XXX|Jun:2023,XXX/XXX|May:2023,XXX/XXX|Apr:2023,XXX/XXX|Mar:2023,XXX/XXX|Feb:2023,XXX/XXX|Jan:2023,000/XXX|Dec:2022,XXX/XXX|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "CREDIT-LIMIT": "1,08,000",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "18",
+                "CASH-LIMIT": "19,800"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "6329098",
+                "CREDIT-GUARANTOR": "SAMPATI SECURITIES LIMITED",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "30-11-2024",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "17,000",
+                "DISBURSED-DT": "02-10-2024",
+                "CLOSED-DATE": "01-11-2024",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Nov:2024,000/STD|Oct:2024,000/STD|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0",
+                "INTEREST-RATE": "0.45",
+                "ACTUAL-PAYMENT": "19,372"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "6381889",
+                "CREDIT-GUARANTOR": "SAMPATI SECURITIES LIMITED",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "31-12-2024",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "17,000",
+                "DISBURSED-DT": "02-12-2024",
+                "CLOSED-DATE": "31-12-2024",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Dec:2024,000/STD|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0",
+                "INTEREST-RATE": "0.35",
+                "ACTUAL-PAYMENT": "18,785"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "6550038",
+                "CREDIT-GUARANTOR": "SAMPATI SECURITIES LIMITED",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "30-09-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "22,000",
+                "DISBURSED-DT": "01-08-2025",
+                "CLOSED-DATE": "02-09-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Sep:2025,000/STD|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "33",
+                "INTEREST-RATE": "0.45",
+                "SUIT-FILED_WILFUL-DEFAULT": "No Suit filed",
+                "ACTUAL-PAYMENT": "25,267"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "MKV768B67B4ID166017975",
+                "CREDIT-GUARANTOR": "MPOKKET FINANCIAL SERVICES",
+                "ACCT-TYPE": "Short Term Personal Loan",
+                "DATE-REPORTED": "28-02-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "1,000",
+                "DISBURSED-DT": "28-01-2025",
+                "LAST-PAYMENT-DATE": "27-02-2025",
+                "CLOSED-DATE": "27-02-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Feb:2025,000/XXX|Jan:2025,XXX/STD|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "6",
+                "ACTUAL-PAYMENT": "1,092"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "6482184",
+                "CREDIT-GUARANTOR": "SAMPATI SECURITIES LIMITED",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "15-05-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "17,000",
+                "DISBURSED-DT": "02-04-2025",
+                "CLOSED-DATE": "02-05-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "May:2025,000/STD|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0",
+                "INTEREST-RATE": "0.45",
+                "ACTUAL-PAYMENT": "19,372"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "204911932",
+                "CREDIT-GUARANTOR": "FINCFRIENDS PRIVATE LIMITED",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "30-04-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "3,000",
+                "DISBURSED-DT": "17-02-2025",
+                "LAST-PAYMENT-DATE": "21-04-2025",
+                "CLOSED-DATE": "21-04-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Apr:2025,000/XXX|Mar:2025,000/XXX|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "205232907",
+                "CREDIT-GUARANTOR": "FINCFRIENDS PRIVATE LIMITED",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "31-08-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "25,000",
+                "DISBURSED-DT": "21-04-2025",
+                "LAST-PAYMENT-DATE": "16-08-2025",
+                "CLOSED-DATE": "16-08-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Aug:2025,000/XXX|Jul:2025,000/XXX|Jun:2025,000/XXX|May:2025,000/XXX|Apr:2025,000/XXX|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "6586552",
+                "CREDIT-GUARANTOR": "SAMPATI SECURITIES LIMITED",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "30-11-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "35,000",
+                "DISBURSED-DT": "03-10-2025",
+                "CLOSED-DATE": "01-11-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Nov:2025,000/STD|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "30",
+                "INTEREST-RATE": "0.4",
+                "SUIT-FILED_WILFUL-DEFAULT": "No Suit filed",
+                "ACTUAL-PAYMENT": "39,200"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "14736400054295",
+                "CREDIT-GUARANTOR": "FEDERAL BANK",
+                "ACCT-TYPE": "Gold Loan",
+                "DATE-REPORTED": "15-02-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "60,000",
+                "DISBURSED-DT": "12-12-2024",
+                "LAST-PAYMENT-DATE": "06-02-2025",
+                "CLOSED-DATE": "06-02-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Feb:2025,000/STD|Jan:2025,000/STD|Dec:2024,000/STD|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": {
+                  "SECURITY-DETAIL": {
+                    "SECURITY-TYPE": "Gold",
+                    "OWNER-NAME": "",
+                    "SECURITY-VALUE": "1,19,731",
+                    "DATE-OF-VALUE": "",
+                    "SECURITY-CHARGE": "",
+                    "PROPERTY-ADDRESS": "",
+                    "AUTOMOBILE-TYPE": "",
+                    "YEAR-OF-MANUFACTURE": "",
+                    "REGISTRATION-NUMBER": "",
+                    "ENGINE-NUMBER": "",
+                    "CHASSIS-NUMBER": ""
+                  }
+                },
+                "REPAYMENT-TENURE": "6",
+                "INTEREST-RATE": "9.95"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "XXXXXXXXXXXXXXX8534",
+                "CREDIT-GUARANTOR": "SBI CARD",
+                "ACCT-TYPE": "Credit Card",
+                "DATE-REPORTED": "30-11-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Active",
+                "DISBURSED-AMT": "28,666",
+                "DISBURSED-DT": "17-02-2017",
+                "LAST-PAYMENT-DATE": "30-09-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "21,469",
+                "COMBINED-PAYMENT-HISTORY": "Nov:2025,000/XXX|Oct:2025,009/XXX|Sep:2025,009/XXX|Aug:2025,009/XXX|Jul:2025,000/XXX|Jun:2025,009/XXX|May:2025,009/XXX|Apr:2025,000/XXX|Mar:2025,000/XXX|Feb:2025,003/XXX|Jan:2025,009/XXX|Dec:2024,000/XXX|Nov:2024,000/XXX|Oct:2024,003/XXX|Sep:2024,003/XXX|Aug:2024,000/XXX|Jul:2024,003/XXX|Jun:2024,003/XXX|May:2024,033/XXX|Apr:2024,003/XXX|Mar:2024,003/XXX|Feb:2024,003/XXX|Jan:2024,000/XXX|Dec:2023,000/XXX|Nov:2023,000/XXX|Oct:2023,000/XXX|Sep:2023,000/XXX|Aug:2023,000/XXX|Jul:2023,000/XXX|Jun:2023,XXX/XXX|May:2023,003/XXX|Apr:2023,003/XXX|Mar:2023,000/XXX|Feb:2023,000/XXX|Jan:2023,000/XXX|Dec:2022,000/XXX|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "CREDIT-LIMIT": "24,000",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0",
+                "CASH-LIMIT": "100"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "XXXXXXXXXXXXXXX6400",
+                "CREDIT-GUARANTOR": "YES BANK",
+                "ACCT-TYPE": "Credit Card",
+                "DATE-REPORTED": "30-11-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Active",
+                "DISBURSED-AMT": "11,573",
+                "DISBURSED-DT": "15-07-2020",
+                "LAST-PAYMENT-DATE": "11-11-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "10,289",
+                "COMBINED-PAYMENT-HISTORY": "Nov:2025,000/XXX|Oct:2025,000/XXX|Sep:2025,000/XXX|Aug:2025,000/XXX|Jul:2025,000/XXX|Jun:2025,000/XXX|May:2025,000/XXX|Apr:2025,000/XXX|Mar:2025,000/XXX|Feb:2025,000/XXX|Jan:2025,000/XXX|Dec:2024,000/XXX|Nov:2024,000/XXX|Oct:2024,000/XXX|Sep:2024,000/XXX|Aug:2024,000/XXX|Jul:2024,000/XXX|Jun:2024,000/XXX|May:2024,000/XXX|Apr:2024,000/XXX|Mar:2024,000/XXX|Feb:2024,000/XXX|Jan:2024,000/XXX|Dec:2023,000/XXX|Nov:2023,000/XXX|Oct:2023,000/XXX|Sep:2023,000/XXX|Aug:2023,000/XXX|Jul:2023,000/XXX|Jun:2023,000/XXX|May:2023,000/XXX|Apr:2023,000/XXX|Mar:2023,000/XXX|Feb:2023,000/XXX|Jan:2023,000/XXX|Dec:2022,000/XXX|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "CREDIT-LIMIT": "10,000",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0",
+                "CASH-LIMIT": "3,000",
+                "ACTUAL-PAYMENT": "1,721"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "6467083",
+                "CREDIT-GUARANTOR": "SAMPATI SECURITIES LIMITED",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "30-04-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "17,000",
+                "DISBURSED-DT": "04-03-2025",
+                "CLOSED-DATE": "01-04-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Apr:2025,000/STD|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0",
+                "INTEREST-RATE": "0.5",
+                "ACTUAL-PAYMENT": "19,465"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "BLSMPLZ000104041",
+                "CREDIT-GUARANTOR": "SOLOMON CAPITAL PVT LTD",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "31-07-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "25,000",
+                "DISBURSED-DT": "03-06-2025",
+                "LAST-PAYMENT-DATE": "04-07-2025",
+                "CLOSED-DATE": "04-07-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Jul:2025,000/STD|Jun:2025,000/STD|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "HC202505301510133567",
+                "CREDIT-GUARANTOR": "R K BANSAL FINANCE",
+                "ACCT-TYPE": "Short Term Personal Loan",
+                "DATE-REPORTED": "15-07-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "11,000",
+                "DISBURSED-DT": "30-05-2025",
+                "CLOSED-DATE": "01-07-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Jul:2025,000/XXX|Jun:2025,000/XXX|May:2025,000/XXX|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0",
+                "SUIT-FILED_WILFUL-DEFAULT": "No Suit filed",
+                "WRITTEN-OFF_SETTLED-STATUS": ""
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "XXXXXXXXXXXXXXX4182",
+                "CREDIT-GUARANTOR": "SBI CARD",
+                "ACCT-TYPE": "Credit Card",
+                "DATE-REPORTED": "30-11-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Active",
+                "DISBURSED-AMT": "1,93,358",
+                "DISBURSED-DT": "21-11-2020",
+                "LAST-PAYMENT-DATE": "07-10-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "77,967",
+                "COMBINED-PAYMENT-HISTORY": "Nov:2025,000/XXX|Oct:2025,000/XXX|Sep:2025,000/XXX|Aug:2025,000/XXX|Jul:2025,000/XXX|Jun:2025,000/XXX|May:2025,000/XXX|Apr:2025,000/XXX|Mar:2025,000/XXX|Feb:2025,000/XXX|Jan:2025,000/XXX|Dec:2024,000/XXX|Nov:2024,XXX/XXX|Oct:2024,003/XXX|Sep:2024,XXX/XXX|Aug:2024,003/XXX|Jul:2024,000/XXX|Jun:2024,XXX/XXX|May:2024,003/XXX|Apr:2024,XXX/XXX|Mar:2024,003/XXX|Feb:2024,XXX/XXX|Jan:2024,003/XXX|Dec:2023,000/XXX|Nov:2023,XXX/XXX|Oct:2023,003/XXX|Sep:2023,XXX/XXX|Aug:2023,003/XXX|Jul:2023,000/XXX|Jun:2023,XXX/XXX|May:2023,003/XXX|Apr:2023,XXX/XXX|Mar:2023,000/XXX|Feb:2023,XXX/XXX|Jan:2023,000/XXX|Dec:2022,000/XXX|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "CREDIT-LIMIT": "76,000",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0",
+                "CASH-LIMIT": "50"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "6516947",
+                "CREDIT-GUARANTOR": "SAMPATI SECURITIES LIMITED",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "31-07-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "17,000",
+                "DISBURSED-DT": "02-06-2025",
+                "CLOSED-DATE": "02-07-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Jul:2025,000/STD|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "31",
+                "INTEREST-RATE": "0.45",
+                "SUIT-FILED_WILFUL-DEFAULT": "No Suit filed",
+                "ACTUAL-PAYMENT": "19,372"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "HC202505010914186036",
+                "CREDIT-GUARANTOR": "R K BANSAL FINANCE",
+                "ACCT-TYPE": "Short Term Personal Loan",
+                "DATE-REPORTED": "31-05-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "11,000",
+                "DISBURSED-DT": "01-05-2025",
+                "CLOSED-DATE": "30-05-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "May:2025,000/XXX|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0",
+                "SUIT-FILED_WILFUL-DEFAULT": "No Suit filed",
+                "WRITTEN-OFF_SETTLED-STATUS": ""
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "MKV15CE67DAID174299273",
+                "CREDIT-GUARANTOR": "MPOKKET FINANCIAL SERVICES",
+                "ACCT-TYPE": "Short Term Personal Loan",
+                "DATE-REPORTED": "30-04-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "2,000",
+                "DISBURSED-DT": "13-03-2025",
+                "LAST-PAYMENT-DATE": "12-04-2025",
+                "CLOSED-DATE": "12-04-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Apr:2025,000/XXX|Mar:2025,000/XXX|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "6",
+                "ACTUAL-PAYMENT": "2,183"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "6603710",
+                "CREDIT-GUARANTOR": "SAMPATI SECURITIES LIMITED",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "15-12-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "25,000",
+                "DISBURSED-DT": "03-11-2025",
+                "CLOSED-DATE": "02-12-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Dec:2025,000/STD|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "29",
+                "INTEREST-RATE": "0.4",
+                "SUIT-FILED_WILFUL-DEFAULT": "No Suit filed",
+                "ACTUAL-PAYMENT": "27,900"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "6356061",
+                "CREDIT-GUARANTOR": "SAMPATI SECURITIES LIMITED",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "31-12-2024",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "17,000",
+                "DISBURSED-DT": "01-11-2024",
+                "CLOSED-DATE": "02-12-2024",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Dec:2024,000/STD|Nov:2024,000/STD|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0",
+                "INTEREST-RATE": "0.4",
+                "ACTUAL-PAYMENT": "19,176"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "6499177",
+                "CREDIT-GUARANTOR": "SAMPATI SECURITIES LIMITED",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "15-06-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "17,000",
+                "DISBURSED-DT": "03-05-2025",
+                "CLOSED-DATE": "02-06-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Jun:2025,000/STD|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "32",
+                "INTEREST-RATE": "0.45",
+                "ACTUAL-PAYMENT": "19,448"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "BLSMPLZ000171077",
+                "CREDIT-GUARANTOR": "SOLOMON CAPITAL PVT LTD",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "31-10-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "32,000",
+                "DISBURSED-DT": "04-09-2025",
+                "LAST-PAYMENT-DATE": "03-10-2025",
+                "CLOSED-DATE": "03-10-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Oct:2025,000/STD|Sep:2025,000/STD|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "100000170718",
+                "CREDIT-GUARANTOR": "VIVIFI INDIA FINANCE PRIVATE LIMITED",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "15-12-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Active",
+                "DISBURSED-AMT": "16,000",
+                "DISBURSED-DT": "01-10-2025",
+                "LAST-PAYMENT-DATE": "30-11-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "15,064",
+                "COMBINED-PAYMENT-HISTORY": "Dec:2025,000/XXX|Nov:2025,000/XXX|Oct:2025,000/XXX|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "LOA-Y18LQNFH",
+                "CREDIT-GUARANTOR": "INNOFIN SOLUTIONS PRIVATE LIMITED",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "15-12-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Active",
+                "DISBURSED-AMT": "25,000",
+                "DISBURSED-DT": "11-10-2025",
+                "LAST-PAYMENT-DATE": "01-12-2025",
+                "INSTALLMENT-AMT": "5,087/Monthly",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "16,667",
+                "COMBINED-PAYMENT-HISTORY": "Dec:2025,000/XXX|Nov:2025,000/XXX|Oct:2025,000/XXX|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "204502282",
+                "CREDIT-GUARANTOR": "FINCFRIENDS PRIVATE LIMITED",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "15-02-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Active",
+                "DISBURSED-AMT": "18,000",
+                "DISBURSED-DT": "17-11-2024",
+                "LAST-PAYMENT-DATE": "17-01-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Feb:2025,000/XXX|Jan:2025,000/XXX|Dec:2024,000/XXX|Nov:2024,000/XXX|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "AA6F1F46C782530B188A66091",
+                "CREDIT-GUARANTOR": "BRANCH INTERNATIONAL FINANCIAL SERVICES PVT LTD",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "31-12-2024",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "1,500",
+                "DISBURSED-DT": "19-11-2024",
+                "LAST-PAYMENT-DATE": "19-12-2024",
+                "CLOSED-DATE": "19-12-2024",
+                "INSTALLMENT-AMT": "1,545/Monthly",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Dec:2024,000/XXX|Nov:2024,000/XXX|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "1",
+                "ACTUAL-PAYMENT": "1,545"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "1802267",
+                "CREDIT-GUARANTOR": "VIVIFI INDIA FINANCE PRIVATE LIMITED",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "31-10-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "16,400",
+                "DISBURSED-DT": "22-06-2024",
+                "LAST-PAYMENT-DATE": "03-10-2025",
+                "CLOSED-DATE": "03-10-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Oct:2025,000/XXX|Sep:2025,000/XXX|Aug:2025,000/XXX|Jul:2025,000/XXX|Jun:2025,000/XXX|May:2025,000/XXX|Apr:2025,000/XXX|Mar:2025,000/XXX|Feb:2025,000/XXX|Jan:2025,000/XXX|Dec:2024,000/XXX|Nov:2024,000/XXX|Oct:2024,000/STD|Sep:2024,000/STD|Aug:2024,000/XXX|Jul:2024,XXX/STD|Jun:2024,XXX/STD|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "CL4343625",
+                "CREDIT-GUARANTOR": "NORTHERN ARC CAPITAL LIMITED",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "28-02-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "60,000",
+                "DISBURSED-DT": "05-05-2024",
+                "LAST-PAYMENT-DATE": "10-02-2025",
+                "CLOSED-DATE": "10-02-2025",
+                "INSTALLMENT-AMT": "8,017/Monthly",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Feb:2025,000/XXX|Jan:2025,000/XXX|Dec:2024,000/XXX|Nov:2024,000/XXX|Oct:2024,000/XXX|Sep:2024,000/XXX|Aug:2024,000/XXX|Jul:2024,000/XXX|Jun:2024,000/XXX|May:2024,000/XXX|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "9",
+                "INTEREST-RATE": "20.0",
+                "SUIT-FILED_WILFUL-DEFAULT": "No Suit filed",
+                "ACTUAL-PAYMENT": "72,153"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "6534468",
+                "CREDIT-GUARANTOR": "SAMPATI SECURITIES LIMITED",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "01-08-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "14,000",
+                "DISBURSED-DT": "03-07-2025",
+                "CLOSED-DATE": "01-08-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Aug:2025,000/STD|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "30",
+                "INTEREST-RATE": "0.45",
+                "SUIT-FILED_WILFUL-DEFAULT": "No Suit filed",
+                "ACTUAL-PAYMENT": "15,890"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "BLDMPLZ000006884",
+                "CREDIT-GUARANTOR": "DEVMUNI LEASING AND FINANCE L",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "31-10-2024",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "16,000",
+                "DISBURSED-DT": "19-09-2024",
+                "LAST-PAYMENT-DATE": "10-10-2024",
+                "CLOSED-DATE": "10-10-2024",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Oct:2024,000/STD|Sep:2024,000/STD|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "BLSMPLZ000033111",
+                "CREDIT-GUARANTOR": "SOLOMON CAPITAL PVT LTD",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "31-03-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "20,000",
+                "DISBURSED-DT": "04-02-2025",
+                "LAST-PAYMENT-DATE": "05-03-2025",
+                "CLOSED-DATE": "05-03-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Mar:2025,000/STD|Feb:2025,000/STD|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "XXXXXXXXXXXX2881",
+                "CREDIT-GUARANTOR": "KOTAK MAHINDRA BANK",
+                "ACCT-TYPE": "Credit Card",
+                "DATE-REPORTED": "30-11-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Active",
+                "DISBURSED-AMT": "1,82,152",
+                "DISBURSED-DT": "31-03-2022",
+                "LAST-PAYMENT-DATE": "17-11-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "73,526",
+                "COMBINED-PAYMENT-HISTORY": "Nov:2025,000/XXX|Oct:2025,000/XXX|Sep:2025,000/XXX|Aug:2025,000/XXX|Jul:2025,000/XXX|Jun:2025,000/XXX|May:2025,000/XXX|Apr:2025,000/XXX|Mar:2025,000/XXX|Feb:2025,000/XXX|Jan:2025,000/XXX|Dec:2024,000/XXX|Nov:2024,000/XXX|Oct:2024,000/XXX|Sep:2024,000/XXX|Aug:2024,000/XXX|Jul:2024,000/XXX|Jun:2024,XXX/XXX|May:2024,000/XXX|Apr:2024,000/XXX|Mar:2024,006/XXX|Feb:2024,000/XXX|Jan:2024,000/XXX|Dec:2023,000/XXX|Nov:2023,000/XXX|Oct:2023,000/XXX|Sep:2023,000/XXX|Aug:2023,000/XXX|Jul:2023,000/XXX|Jun:2023,000/XXX|May:2023,000/XXX|Apr:2023,000/XXX|Mar:2023,000/XXX|Feb:2023,000/XXX|Jan:2023,000/XXX|Dec:2022,000/XXX|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "CREDIT-LIMIT": "70,900",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0",
+                "CASH-LIMIT": "14,180",
+                "ACTUAL-PAYMENT": "4,119"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "BLSMPLZ000048330",
+                "CREDIT-GUARANTOR": "SOLOMON CAPITAL PVT LTD",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "30-04-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "20,000",
+                "DISBURSED-DT": "05-03-2025",
+                "LAST-PAYMENT-DATE": "02-04-2025",
+                "CLOSED-DATE": "02-04-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Apr:2025,000/STD|Mar:2025,000/STD|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "204106749",
+                "CREDIT-GUARANTOR": "FINCFRIENDS PRIVATE LIMITED",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "30-11-2024",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "3,000",
+                "DISBURSED-DT": "15-09-2024",
+                "LAST-PAYMENT-DATE": "17-11-2024",
+                "CLOSED-DATE": "17-11-2024",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Nov:2024,000/XXX|Oct:2024,000/XXX|Sep:2024,000/XXX|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "Y9DV6EFV",
+                "CREDIT-GUARANTOR": "INNOFIN SOLUTIONS PRIVATE LIMITED",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "31-07-2024",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "24,000",
+                "DISBURSED-DT": "22-02-2024",
+                "LAST-PAYMENT-DATE": "06-07-2024",
+                "CLOSED-DATE": "06-07-2024",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Jul:2024,000/XXX|Jun:2024,000/XXX|May:2024,000/XXX|Apr:2024,000/XXX|Mar:2024,000/XXX|Feb:2024,000/XXX|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0"
+              }
+            },
+            {
+              "LOAN-DETAILS": {
+                "ACCT-NUMBER": "HC202501310905475772",
+                "CREDIT-GUARANTOR": "R K BANSAL FINANCE",
+                "ACCT-TYPE": "Personal Loan",
+                "DATE-REPORTED": "28-02-2025",
+                "OWNERSHIP-IND": "Individual",
+                "ACCOUNT-STATUS": "Closed",
+                "DISBURSED-AMT": "10,000",
+                "DISBURSED-DT": "31-01-2025",
+                "CLOSED-DATE": "28-02-2025",
+                "OVERDUE-AMT": "0",
+                "WRITE-OFF-AMT": "0",
+                "CURRENT-BAL": "0",
+                "COMBINED-PAYMENT-HISTORY": "Feb:2025,000/XXX|Jan:2025,000/XXX|",
+                "MATCHED-TYPE": "PRIMARY",
+                "LINKED-ACCOUNTS": "",
+                "SECURITY-DETAILS": "",
+                "REPAYMENT-TENURE": "0",
+                "SUIT-FILED_WILFUL-DEFAULT": "No Suit filed",
+                "WRITTEN-OFF_SETTLED-STATUS": ""
+              }
+            }
+          ]
+        },
+        "INQUIRY-HISTORY": {
+          "HISTORY": [
+            {
+              "MEMBER-NAME": "DSG INVESTMENTS PRIVATE LTD",
+              "INQUIRY-DATE": "23-10-2025",
+              "PURPOSE": "OTHER",
+              "OWNERSHIP-TYPE": "PRIMARY",
+              "AMOUNT": "50,000",
+              "REMARK": ""
+            },
+            {
+              "MEMBER-NAME": "INNOFIN SOLUTIONS PRIVATE LIMITED",
+              "INQUIRY-DATE": "11-10-2025",
+              "PURPOSE": "OTHER",
+              "OWNERSHIP-TYPE": "PRIMARY",
+              "AMOUNT": "10,000",
+              "REMARK": ""
+            },
+            {
+              "MEMBER-NAME": "FINCFRIENDS PRIVATE LIMITED",
+              "INQUIRY-DATE": "16-08-2025",
+              "PURPOSE": "Personal Loan",
+              "OWNERSHIP-TYPE": "PRIMARY",
+              "AMOUNT": "0",
+              "REMARK": ""
+            },
+            {
+              "MEMBER-NAME": "FINCFRIENDS PRIVATE LIMITED",
+              "INQUIRY-DATE": "21-04-2025",
+              "PURPOSE": "Housing Loan",
+              "OWNERSHIP-TYPE": "PRIMARY",
+              "AMOUNT": "0",
+              "REMARK": ""
+            },
+            {
+              "MEMBER-NAME": "DEVMUNI LEASING AND FINANCE L",
+              "INQUIRY-DATE": "05-03-2025",
+              "PURPOSE": "Personal Loan",
+              "OWNERSHIP-TYPE": "PRIMARY",
+              "AMOUNT": "17,000",
+              "REMARK": ""
+            },
+            {
+              "MEMBER-NAME": "HDFC BANK LTD",
+              "INQUIRY-DATE": "14-12-2024",
+              "PURPOSE": "Credit Card",
+              "OWNERSHIP-TYPE": "PRIMARY",
+              "AMOUNT": "1,000",
+              "REMARK": ""
+            },
+            {
+              "MEMBER-NAME": "DEVMUNI LEASING AND FINANCE L",
+              "INQUIRY-DATE": "23-10-2024",
+              "PURPOSE": "Personal Loan",
+              "OWNERSHIP-TYPE": "PRIMARY",
+              "AMOUNT": "30,000",
+              "REMARK": ""
+            },
+            {
+              "MEMBER-NAME": "LNT FINANCE",
+              "INQUIRY-DATE": "18-07-2024",
+              "PURPOSE": "Consumer Loan",
+              "OWNERSHIP-TYPE": "PRIMARY",
+              "AMOUNT": "15,000",
+              "REMARK": ""
+            },
+            {
+              "MEMBER-NAME": "DEVMUNI LEASING AND FINANCE L",
+              "INQUIRY-DATE": "07-07-2024",
+              "PURPOSE": "Personal Loan",
+              "OWNERSHIP-TYPE": "PRIMARY",
+              "AMOUNT": "13,000",
+              "REMARK": ""
+            },
+            {
+              "MEMBER-NAME": "FDPL FINANCE PRIVATE LIMITED",
+              "INQUIRY-DATE": "06-07-2024",
+              "PURPOSE": "Personal Loan",
+              "OWNERSHIP-TYPE": "PRIMARY",
+              "AMOUNT": "0",
+              "REMARK": ""
+            },
+            {
+              "MEMBER-NAME": "UNIFINZ CAPITAL INDIA LIMTED",
+              "INQUIRY-DATE": "10-06-2024",
+              "PURPOSE": "Personal Loan",
+              "OWNERSHIP-TYPE": "PRIMARY",
+              "AMOUNT": "0",
+              "REMARK": ""
+            },
+            {
+              "MEMBER-NAME": "ATMOS FINANCE PRIVATE LIMITED",
+              "INQUIRY-DATE": "19-03-2024",
+              "PURPOSE": "Personal Loan",
+              "OWNERSHIP-TYPE": "PRIMARY",
+              "AMOUNT": "0",
+              "REMARK": ""
+            },
+            {
+              "MEMBER-NAME": "LNT FINANCE",
+              "INQUIRY-DATE": "20-02-2024",
+              "PURPOSE": "OTHER",
+              "OWNERSHIP-TYPE": "PRIMARY",
+              "AMOUNT": "15,000",
+              "REMARK": ""
+            }
+          ]
+        },
+        "SCORES": {
+          "SCORE": {
+            "SCORE-TYPE": "PERFORM CONSUMER 2.2",
+            "SCORE-VALUE": "564",
+            "SCORE-FACTORS": "SF02|SF06|SF12|SF32|"
+          }
+        },
+        "verificarionScoreList": "",
+        "PRINTABLE-REPORT": {
+          "TYPE": "",
+          "FILE-NAME": "",
+          "CONTENT": ""
+        },
+        "enhanceProCcirFlag": "false",
+        "ccirFlag": "false"
+      },
+      "credit_report_link": "https://kyc-docs-storage.s3.ap-south-1.amazonaws.com/credit_reports/crif/crif_report_TXN-7f68060c-de68-4a97-9c82-bcee0b8aa60c.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQFLZDKV6WT2ERJC7%2F20251219%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20251219T103748Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEOL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCmFwLXNvdXRoLTEiRzBFAiAJ5aB3HcoAjPgsM6l%2F3pVu9uG4xf44vjmRJOUDE554awIhAJpLX8AcacU%2BYudOd3qXrgo%2F8mvIJYj5wsorxFQw%2F7OTKpsDCKz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMMDExNTI4MjYzMDM3IgwahuPuTkO330TW0GQq7wLAqZjADAp0L1%2BugOqZaesCbwYWiEFsjYVk4BTtJnuJ8ycUtF3rquVNTQ0oHdWq1IRvH4oCh9W8MnOJVojESeYhtk0vOjXzfGt9VinClauebSVPPoQanQ10ZDZS4yNSs6TxZI1oosX724uMe4Oh67tzuHgxEWzNDa5wTEQXc3DNmC4YwrZZ3qu7wQgjA5ufLEKVbMkHfbSHrZzkWWoueU4oOoXrz1x%2FXEIODCkVdVGNY7%2F43TWTaGNY3aOUp%2B6XgZmJhfO%2Bt8CZWzgBa%2FYvCXpvy9pAnQ%2Fun%2BVq2fyW4JrXbB%2Fw8EuIrNXt4EPMmkzhl7Au6xiP83AHpsv%2FjPNBW6a%2BUsO%2BbBGRf6ynj7lVO3uoePSdx%2Ff8pTZETbTpECcbE7gTUKJpnzQIjT88b1Uhw2HAtpj63VHJy9TxCF7aI%2BqwTgHbqzIvG%2FeHyJieTgQ0qkcdYD%2FWLwQY%2BtZgyijCVAxLxZV8SkOucYBFkQCLjZNSMJPPlMoGOp0BmNBzi77ieAHiEM38jAJ86pPS7wjm8l8B8D2jy76t0R3z0g11Pga6T0fbaDgeKkpiUnn2%2BjBHbwRbmlxr4lhRT%2FHjozYeyaq4zBfBY0NsyMwoLlM71ID7K5UA1E0H6nzK9mH4aJfUXpgUclBp3STicx%2FT0tkXkeawy%2BRErndhbyrgeTvm7CZog6Z3fpKb9qufjPNICHfu0ogxWMMusw%3D%3D&X-Amz-Signature=c779d645e83cf7bcd1bb14648ab5787bde71eea6e3e40e3f509947e02661b691&X-Amz-SignedHeaders=host"
+    }
+  },
+  "resp_status_code": 200,
+  "response_message": "Success",
+  "resp_code": "success"
+}
